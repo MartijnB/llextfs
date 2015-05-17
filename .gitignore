@@ -1,0 +1,4 @@
+obj/*.o
+
+libextfs.a
+examples/print_passwd
